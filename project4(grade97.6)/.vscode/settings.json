@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "process.h": "c",
+        "string.h": "c",
+        "round.h": "c",
+        "inttypes.h": "c",
+        "timer.h": "c",
+        "gdt.h": "c",
+        "interrupt.h": "c",
+        "syscall-nr.h": "c",
+        "main.h": "c",
+        "pte.h": "c",
+        "vaddr.h": "c",
+        "palloc.h": "c",
+        "*.inc": "c",
+        "bitmap.h": "c",
+        "syscall.h": "c",
+        "thread.h": "c"
+    }
+}
